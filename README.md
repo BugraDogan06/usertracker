@@ -35,9 +35,9 @@ Amaç, Vue 3 ile kullanıcıların gönderileri, yorumları, albümleri ve yapı
 
 ```bash
 git clone https://github.com/kullaniciadi/usertracker-frontend.git
-cd usertracker-frontend
+cd usertracker
 npm install
-npm run dev
+npm run serve
 Uygulama localhost:8080 adresinde çalışır. (Vite üzerinden)
 
 
@@ -46,6 +46,7 @@ Uygulama localhost:8080 adresinde çalışır. (Vite üzerinden)
 Buğra Doğan
 Stajyer Yazılım Geliştirici – N2Mobil
 Bu aşamada Vue 3 ekosistemine hakimiyet kazanarak modern SPA geliştirme konusunda ciddi bir yetkinlik kazandım ✅
+
 
 
 
