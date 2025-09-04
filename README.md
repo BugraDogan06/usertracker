@@ -1,4 +1,4 @@
-# 🌐 UserTracker Frontend (N2Mobil Staj Projesi - Aşama 2)
+# 🌐 UserTracker Frontend (N2Mobil Staj Projesi - BUĞRA DOĞAN)
 
 Bu proje, **N2Mobil firması** tarafından verilen 3 aşamalı projenin ikinci adımı olan **Frontend uygulamasıdır**.  
 Amaç, Vue 3 ile kullanıcıların gönderileri, yorumları, albümleri ve yapılacaklarını kullanıcı arayüzüyle takip edebilmesini sağlamaktır.
@@ -46,5 +46,6 @@ Uygulama localhost:8080 adresinde çalışır. (Vite üzerinden)
 Buğra Doğan
 Stajyer Yazılım Geliştirici – N2Mobil
 Bu aşamada Vue 3 ekosistemine hakimiyet kazanarak modern SPA geliştirme konusunda ciddi bir yetkinlik kazandım ✅
+
 
 
