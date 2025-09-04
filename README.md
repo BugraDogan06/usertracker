@@ -5,12 +5,12 @@ Amaç, Vue 3 ile kullanıcıların gönderileri, yorumları, albümleri ve yapı
 
 ---
 
-## 🚀 Kullanılan Teknolojiler ve Yetenekler
+##  Kullanılan Teknolojiler ve Yetenekler
 
 | Teknoloji      | Açıklama                                            |
 |----------------|-----------------------------------------------------|
 | ⚙️ Vue 3       | Modern, reaktif frontend framework                  | 
-| 🌿 Pinia       | Global state yönetimi (Vuex'in modern alternatifi) |
+| 🌿 Vuex       | Global state yönetimi                                |
 | 🔗 Vue Router  | Sayfalar arası yönlendirme (SPA mimarisi)           |
 | 🔮 Axios       | API ile veri alışverişi                             |
 | 🎨 TailwindCSS | Utility-first modern CSS framework                  |
@@ -26,8 +26,8 @@ Amaç, Vue 3 ile kullanıcıların gönderileri, yorumları, albümleri ve yapı
 - ✅ `v-for`, `v-if`, `@click`, `:class` gibi Vue direktifleri
 - ✅ Modal yapısı, layout yönetimi, grid sistemleri
 - ✅ Axios ile API'den veri çekme, filtreleme, hata yakalama
-- ✅ localStorage ile checkbox kayıtları (her userId için farklı saklama)
-- ✅ `Pinia` ile tüm uygulamada state yönetimi (örnek: todos)
+- ✅ localStorage ile user kayıtları (her userId için farklı saklama)
+- ✅ `vuex` ile tüm uygulamada state yönetimi (örnek: todos)
 
 ---
 
@@ -38,19 +38,13 @@ git clone https://github.com/kullaniciadi/usertracker-frontend.git
 cd usertracker-frontend
 npm install
 npm run dev
-Uygulama localhost:5173 adresinde çalışır. (Vite üzerinden)
+Uygulama localhost:8080 adresinde çalışır. (Vite üzerinden)
 
-🧠 Öne Çıkan Özellikler
-📁 AlbumCard.vue: İçinde 4 sabit resim olan kart yapısı, tıklanabilir bağlantı
 
-📝 UserTodos.vue: Her kullanıcı için localStorage ile yönetilen yapılacaklar listesi
-
-💬 UserPosts.vue: Dinamik modal ile post detay ve yorum gösterimi
-
-📸 AlbumDetail.vue: Her albüm için sabit ama farklı picsum.photos görselleri
 
 👨‍💻 Geliştirici
-Kadir Gümüşbaş
+Buğra Doğan
 Stajyer Yazılım Geliştirici – N2Mobil
 Bu aşamada Vue 3 ekosistemine hakimiyet kazanarak modern SPA geliştirme konusunda ciddi bir yetkinlik kazandım ✅
+
 
